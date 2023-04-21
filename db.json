@@ -1,0 +1,51 @@
+{
+  "hotels": [
+    {
+      "category": "deluxe",
+      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/46392/medium/2775790e05062bef.jpg",
+      "type_of_room": "ac",
+      "bed_type": "double",
+      "no_of_persons": "2",
+      "capacity": "5",
+      "cost": "15",
+      "booked": false,
+      "id": 1
+    },
+    {
+      "category": "deluxe",
+      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/104869/medium/6486f070f592c2da.jpg",
+      "type_of_room": "ac",
+      "bed_type": "double",
+      "no_of_persons": "1",
+      "capacity": "3",
+      "cost": "787",
+      "booked": false,
+      "id": 2
+    },
+    {
+      "category": "suite",
+      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/41540/medium/4f4ec12b1c0d1991.jpg",
+      "type_of_room": "non-ac",
+      "bed_type": "single",
+      "no_of_persons": "1",
+      "capacity": "3",
+      "cost": "566",
+      "booked": false,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "ONKAR",
+      "email": "onkarOK0273@email.com",
+      "pass": "123",
+      "id": 1
+    },
+    {
+      "name": "onkar k",
+      "email": "onkar@gmail.com",
+      "pass": "onkar123",
+      "id": 2
+    }
+  ]
+}
