@@ -1,41 +1,5 @@
 {
-  "dogs": [
-    {
-      "name": "labrodog",
-      "age": "3",
-      "gender": "Male",
-      "place": "kolhapur",
-      "id": 1
-    },
-    {
-      "name": "kityy",
-      "age": "1",
-      "gender": "Female",
-      "place": "mumbai",
-      "id": 3
-    },
-    {
-      "name": "pixal",
-      "age": "2",
-      "gender": "Male",
-      "place": "pune",
-      "id": 4
-    },
-    {
-      "name": "richerd",
-      "age": "4",
-      "gender": "Female",
-      "place": "kolkatta",
-      "id": 5
-    },
-    {
-      "name": "duffy",
-      "age": "5",
-      "gender": "Female",
-      "place": "pune",
-      "id": 6
-    }
-  ],
+ 
   "products": [
     {
       "img": "https://www.kindpng.com/picc/m/10-106676_dress-shirt-png-image-png-shirts-transparent-png.png",
