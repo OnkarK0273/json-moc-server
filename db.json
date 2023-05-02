@@ -35,5 +35,151 @@
       "place": "pune",
       "id": 6
     }
+  ],
+  "products": [
+    {
+      "img": "https://www.kindpng.com/picc/m/10-106676_dress-shirt-png-image-png-shirts-transparent-png.png",
+      "productName": "Mens shirt 2 ",
+      "productDescription": "Mens Shirt 2 description",
+      "gender": "male",
+      "category": "shirts",
+      "price": 499,
+      "id": 2
+    },
+    {
+      "img": "https://www.pngall.com/wp-content/uploads/5/Long-Sleeve-Shirt-PNG.png",
+      "productName": "Mens shirt 3 ",
+      "productDescription": "Mens Shirt 3 description",
+      "gender": "male",
+      "category": "shirts",
+      "price": 599,
+      "id": 3
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81Gma8oi-LL._UY550_.jpg",
+      "productName": "Womans Jacket 1 ",
+      "productDescription": "Womans Jacket 1  description",
+      "gender": "female",
+      "category": "jackets",
+      "price": 399,
+      "id": 5
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71K2FWfaJXL._UY550_.jpg",
+      "productName": "Womans Jacket 3 ",
+      "productDescription": "Womans Jacket 3  description",
+      "gender": "female",
+      "category": "jackets",
+      "price": 699,
+      "id": 6
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71K2FWfaJXL._UY550_.jpg",
+      "productName": "Womans saree2",
+      "productDescription": "Womans saree 2  description",
+      "gender": "female",
+      "category": "saree",
+      "price": 299,
+      "id": 8
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71K2FWfaJXL._UY550_.jpg",
+      "productName": "Womans lehenga 1",
+      "productDescription": "Womans lehenga 1  description",
+      "gender": "female",
+      "category": "lehenga",
+      "price": 299,
+      "id": 9
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71K2FWfaJXL._UY550_.jpg",
+      "productName": "Womans lehenga 2",
+      "productDescription": "Womans lehenga 2  description",
+      "gender": "female",
+      "category": "lehenga",
+      "price": 499,
+      "id": 10
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71K2FWfaJXL._UY550_.jpg",
+      "productName": "Womans lehenga 3",
+      "productDescription": "Womans lehenga 3  description",
+      "gender": "female",
+      "category": "lehenga",
+      "price": 699,
+      "id": 11
+    },
+    {
+      "img": "https://4.imimg.com/data4/NQ/RN/ANDROID-61350880/product-500x500.jpeg",
+      "productName": "mens jens 1",
+      "productDescription": "mens jens 1  description",
+      "gender": "male",
+      "category": "jeans",
+      "price": 699,
+      "id": 12
+    },
+    {
+      "img": "https://4.imimg.com/data4/NQ/RN/ANDROID-61350880/product-500x500.jpeg",
+      "productName": "mens jens 2",
+      "productDescription": "mens jens 2  description",
+      "gender": "male",
+      "category": "jeans",
+      "price": 899,
+      "id": 13
+    },
+    {
+      "img": "https://4.imimg.com/data4/NQ/RN/ANDROID-61350880/product-500x500.jpeg",
+      "productName": "mens jens 3",
+      "productDescription": "mens jens 3  description",
+      "gender": "male",
+      "category": "jeans",
+      "price": 1299,
+      "id": 14
+    },
+    {
+      "img": "https://5.imimg.com/data5/QL/BD/XA/SELLER-44304536/men-check-trousers-500x500.jpg",
+      "productName": "mens trousers 1",
+      "productDescription": "mens trousers 1  description",
+      "gender": "male",
+      "category": "trousers",
+      "price": 499,
+      "id": 15
+    },
+    {
+      "img": "https://5.imimg.com/data5/QL/BD/XA/SELLER-44304536/men-check-trousers-500x500.jpg",
+      "productName": "mens trousers 2",
+      "productDescription": "mens trousers 2  description",
+      "gender": "male",
+      "category": "trousers",
+      "price": 999,
+      "id": 16
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/suit/5/w/1/36-suit-maroon-darbar-in-original-imag5fjyvg3zzaa8-bb.jpeg?q=70",
+      "productName": "mens suits 1",
+      "productDescription": "mens suits 1  description",
+      "gender": "male",
+      "category": "suits",
+      "price": 999,
+      "id": 17
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/suit/5/w/1/36-suit-maroon-darbar-in-original-imag5fjyvg3zzaa8-bb.jpeg?q=70",
+      "productName": "mens suits 2",
+      "productDescription": "mens suits 2  description",
+      "gender": "male",
+      "category": "suits",
+      "price": 1999,
+      "id": 18
+    },
+    {
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/suit/5/w/1/36-suit-maroon-darbar-in-original-imag5fjyvg3zzaa8-bb.jpeg?q=70",
+      "productName": "mens suits 3",
+      "productDescription": "mens suits 3  description",
+      "gender": "male",
+      "category": "suits",
+      "price": 1599,
+      "id": 19
+    }
   ]
 }
